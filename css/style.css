@@ -103,7 +103,7 @@ body {
   background-color: transparent;
 }
 
-.custom_menu-btn span {
+.custom_menu-btn spanh {
   display: block;
   width: 35px;
   height: 5px;
@@ -226,9 +226,9 @@ a:focus {
   margin-right: 5px;
 }
 
-.navbar-brand span {
+.navbar-brand spanh {
   text-transform: uppercase;
-  font-size: 24px;
+  font-size: 34px;
   font-weight: 700;
   color: #8547ca;
   margin-top: 5px;
