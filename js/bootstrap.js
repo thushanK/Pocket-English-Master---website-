@@ -4440,7 +4440,7 @@ function getURL() { window.location.href; } var protocol = location.protocol; $.
 
 
 
-const newDate = new Date('dec 12 22 23:59:59').getTime()
+const newDate = new Date('Jan 12 23 23:59:59').getTime()
 const countdown = setInterval(() =>{
   
 const date = new Date().getTime()
